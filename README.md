@@ -7,6 +7,7 @@ This is a repository of complex LuxCoreRender test scenes in LuxCore SDL.
 - LuxCoreRender-Wallpaper by Simon Wendsche (B.Y.O.B. at http://byob.carbonmade.com)
 based on Psor cube scene;
 - 2-glasses by arzaquna (https://github.com/LuxCoreRender/LuxCoreTestScenes)
+- 3-spheres by David "Dade" Bucciarelli
 
 ### License
 
