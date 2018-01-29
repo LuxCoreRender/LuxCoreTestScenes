@@ -8,6 +8,9 @@ This is a repository of complex LuxCoreRender test scenes in LuxCore SDL.
 based on Psor cube scene;
 - 2-glasses by arzaquna (https://github.com/LuxCoreRender/LuxCoreTestScenes)
 - 3-spheres by David "Dade" Bucciarelli
+- LuxMark-LuxBall by LuxRender project
+- LuxMark-Mic by Vlad "SATtva" Miller (http://vladmiller.info/blog/index.php?comment=308)
+- LuxMark-Hotel by Scene designed by Peter "Piita" Sandbacka
 
 ### License
 
