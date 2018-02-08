@@ -11,6 +11,7 @@ based on Psor cube scene;
 - LuxMark-LuxBall by LuxRender project
 - LuxMark-Mic by Vlad "SATtva" Miller (http://vladmiller.info/blog/index.php?comment=308)
 - LuxMark-Hotel by Scene designed by Peter "Piita" Sandbacka
+- Prism by "Lighting_freak" (https://forums.luxcorerender.org/viewtopic.php?f=2&t=94)
 
 ### License
 
