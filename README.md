@@ -2,6 +2,12 @@
 
 This is a repository of complex LuxCoreRender test scenes in LuxCore SDL.
 
+### Clone/Download
+
+This repository uses git LFS, so you can not simply download it as a zip archive.
+
+To clone it, you need to have git LFS installed: https://git-lfs.github.com/
+
 ### Authors
 
 - LuxCoreRender-Wallpaper by Simon Wendsche (B.Y.O.B. at http://byob.carbonmade.com)
@@ -10,8 +16,9 @@ based on Psor cube scene;
 - 3-spheres by David "Dade" Bucciarelli
 - LuxMark-LuxBall by LuxRender project
 - LuxMark-Mic by Vlad "SATtva" Miller (http://vladmiller.info/blog/index.php?comment=308)
-- LuxMark-Hotel by Scene designed by Peter "Piita" Sandbacka
+- LuxMark-Hotel Scene designed by Peter "Piita" Sandbacka
 - Prism by "Lighting_freak" (https://forums.luxcorerender.org/viewtopic.php?f=2&t=94)
+- LuxCore 2.1 Benchmark by Charles Nandeya Ehouman (Sharlybg)
 
 ### License
 
