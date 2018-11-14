@@ -4,9 +4,12 @@ This is a repository of complex LuxCoreRender test scenes in LuxCore SDL.
 
 ### Clone/Download
 
-This repository uses git LFS, so you can not simply download it as a zip archive.
+This repository uses git LFS, so you can *not* simply download it as a zip archive.
 
 To clone it, you need to have git LFS installed: https://git-lfs.github.com/
+
+Some of the scenes are also available as zip archives for instant download: 
+https://github.com/LuxCoreRender/LuxCoreTestScenes/releases
 
 ### Authors
 
