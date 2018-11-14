@@ -4,7 +4,7 @@ This is a repository of complex LuxCoreRender test scenes in LuxCore SDL.
 
 ### Clone/Download
 
-This repository uses git LFS, so you can *not* simply download it as a zip archive.
+This repository uses git LFS, so you can **not** simply download it as a zip archive.
 
 To clone it, you need to have git LFS installed: https://git-lfs.github.com/
 
@@ -22,6 +22,7 @@ based on Psor cube scene;
 - LuxMark-Hotel Scene designed by Peter "Piita" Sandbacka
 - Prism by "Lighting_freak" (https://forums.luxcorerender.org/viewtopic.php?f=2&t=94)
 - LuxCore 2.1 Benchmark by Charles Nandeya Ehouman (Sharlybg)
+- Food scene by Charles Nandeya Ehouman (Sharlybg)
 
 ### License
 
