@@ -1,4 +1,4 @@
-Author: provisory
+Author: Provisory
 Created with LuxCoreRender v2.2beta1
 
 How to render with luxcoreui:
