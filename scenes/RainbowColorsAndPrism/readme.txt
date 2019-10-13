@@ -1,4 +1,5 @@
 Author: Spiros Stavropoulos (xlxs)
+Blender file saved with Blender 2.79b
 
 Author's notes:
 This blend file demonstrates how to setup a prism (https://en.wikipedia.org/wiki/Prism) and a laser using luxcore blender plug-in so that the rainbow colors can be rendered.

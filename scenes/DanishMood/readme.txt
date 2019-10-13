@@ -1,5 +1,6 @@
 Author: Charles Nandeya Ehouman (Sharlybg)
 Created with LuxCoreRender v2.2alpha1
+Blender file saved with Blender 2.79b
 
 How to render with luxcoreui:
 * Open luxcoreui application (get from https://luxcorerender.org/download/)
