@@ -24,6 +24,8 @@ based on Psor cube scene;
 - LuxCore 2.1 Benchmark by Charles Nandeya Ehouman (Sharlybg)
 - Food scene by Charles Nandeya Ehouman (Sharlybg)
 - HallBench scene by Charles Nandeya Ehouman (Sharlybg)
+- PointinessExamples by Egert Kanep
+- ProceduralLeaves by Provisory
 
 ### License
 
@@ -34,6 +36,7 @@ This software is released under Apache License Version 2.0 (see COPYING.txt file
 New scenes should include:
 - "readme.txt" mentioning the author and LuxCore version the scene was created with
 - Scene in the native format of the 3D software it was created with, e.g. .blend for Blender.
-  If possible, save the native format in compressed form and pack any required assets into it.
-- "LuxCoreScene" folder containing the scene in LuxCore text format (render.cfg, scene.scn, meshes as .ply, textures as .png/.exr)
+  If possible, save the native format in compressed form and pack any required assets into it
+- "LuxCoreScene" folder containing the scene in LuxCore text format (render.cfg, scene.scn, meshes as .ply, textures as .png/.exr).
+  The FILESAVER engine can be used to generate these files
 - Rendered result as "reference.png", created either within the 3D software or from standalone LuxCore
