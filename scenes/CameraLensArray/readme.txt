@@ -1,0 +1,16 @@
+Author: Atair
+Created with LuxCoreRender v2.3
+Blender file saved with Blender 2.82a
+
+More detail on this scene can be found here:
+https://blenderartists.org/t/virtual-lens-from-scratch-with-grasshopper-and-blender-luxcore/1213126
+
+How to render with luxcoreui:
+* Open luxcoreui application (get from https://luxcorerender.org/download/)
+* Open the menu "Rendering -> Load" on the upper left
+* Navigate into this folder and open "LuxCoreScene"
+* Select the file "render.cfg" and click "Open"
+
+How to render with Blender:
+* You need to have the BlendLuxCore addon installed (https://github.com/LuxCoreRender/BlendLuxCore)
+* Open the .blend file and press F12
